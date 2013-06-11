@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/projects/J4S/!svn/ver/5986/source/hilo/solr/conf
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/J4S/!svn/ver/5917/source/hilo/solr/conf/schema.xml
+END
+protwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/J4S/!svn/ver/5914/source/hilo/solr/conf/protwords.txt
+END
+stopwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/J4S/!svn/ver/5914/source/hilo/solr/conf/stopwords.txt
+END
+elevate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/J4S/!svn/ver/5914/source/hilo/solr/conf/elevate.xml
+END
+solrconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/J4S/!svn/ver/5986/source/hilo/solr/conf/solrconfig.xml
+END
+mapping-ISOLatin1Accent.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/J4S/!svn/ver/5914/source/hilo/solr/conf/mapping-ISOLatin1Accent.txt
+END
+scripts.conf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/J4S/!svn/ver/5914/source/hilo/solr/conf/scripts.conf
+END
+admin-extra.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/J4S/!svn/ver/5914/source/hilo/solr/conf/admin-extra.html
+END
+synonyms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/J4S/!svn/ver/5914/source/hilo/solr/conf/synonyms.txt
+END
+spellings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/J4S/!svn/ver/5914/source/hilo/solr/conf/spellings.txt
+END
